@@ -15,7 +15,7 @@
 }
 
 p{
-	
+	text-align: justify;
 }
 
 hr {
@@ -23,11 +23,11 @@ hr {
 }
 
 h1, h2 {
-	
+	color: #347235;
 }
 
 h2 {
-	
+	font-size: 17px;
 }
 
 #tartalom {
@@ -48,6 +48,6 @@ h2 {
 }
 
 a:link {
-	color: rgb(#008080);
+	color:#008080;
 }
 
