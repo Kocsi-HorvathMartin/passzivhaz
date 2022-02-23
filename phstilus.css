@@ -4,6 +4,7 @@
 	padding: 0px;
 	background-image: url(bg.png);
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
 }
 
 p{
@@ -40,6 +41,6 @@ h2 {
 }
 
 a:link {
-
+	color: rgb(#008080);
 }
 
