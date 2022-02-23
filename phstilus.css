@@ -19,7 +19,7 @@ p{
 }
 
 hr {
-	
+	width: 60%;
 }
 
 h1, h2 {
@@ -43,7 +43,7 @@ h2 {
 
 
 .kep {
-	
+	border: 1px black solid;
 	margin-left: 5px;
 }
 
